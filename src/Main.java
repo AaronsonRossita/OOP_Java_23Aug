@@ -34,10 +34,31 @@ public class Main {
         Student s3 = new Student(3,"C","CC","789",23);
         Student s4 = new Student(3,"D","DD","123",30);
 
-        fullstack.registerStudent(s1);
-        fullstack.registerStudent(s2);
-        fullstack.registerStudent(s3);
-        fullstack.registerStudent(s4);
+//        fullstack.registerStudent(s1);
+//        fullstack.registerStudent(s2);
+//        fullstack.registerStudent(s3);
+//        fullstack.registerStudent(s4);
+
+        Customer c1 = new Customer();
+        Customer c2 = new Customer(2,"Tom");
+        Customer c3 = new Customer("Marry");
+        Customer c4 = new Customer("Harry");
+
+//        System.out.println(c3.name);
+//        System.out.println(c3.id);
+//        System.out.println(c3.registerDate);
+//        System.out.println("_______");
+//        System.out.println(c4.name);
+//        System.out.println(c4.id);
+//        System.out.println(c4.registerDate);
+
+
+
+
+
+
+
+
 
 
 
